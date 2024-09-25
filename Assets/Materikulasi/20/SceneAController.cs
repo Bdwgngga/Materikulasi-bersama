@@ -6,7 +6,7 @@ public class SceneAController : MonoBehaviour
     {
         //LOAD DATA DARI SERVER/PLAYER PREFS
         //DATA READY
-        SetData("EL Kecepatan");
+        SetData("Bagas Dewangga");
     }
 
     void SetData(string nickname)
