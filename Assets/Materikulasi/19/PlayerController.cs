@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     // ambil properti karakter controller
     public CharacterController characterController;
     // set kecepatan karakter
-    public float speed = 10f;
+    public float speed = 12f;
 
     // Update is called once per frame
     void Update()
